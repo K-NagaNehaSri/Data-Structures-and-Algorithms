@@ -1,4 +1,4 @@
-# Data-Structures-and-Algorithms
+# Data-Structures-and-Algorithms in java
 
 A comprehensive collection of **Data Structures and Algorithms** implementations in **Java**.
 

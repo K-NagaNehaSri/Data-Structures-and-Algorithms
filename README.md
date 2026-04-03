@@ -92,6 +92,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you have questions or suggestions, feel free to open an issue or reach out.
 
+## 📧 Contact
+
+For questions or suggestions, feel free to reach out:
+- **GitHub:** [@K-NagaNehaSri](https://github.com/K-NagaNehaSri)
+- **LinkedIn:** [Naga Neha Sri](https://www.linkedin.com/in/k-naga-neha-sri-b78b3937a)
+
 ---
 
 **Happy Coding!** 🎉
